@@ -1,0 +1,22 @@
+{
+  "name": "NeoMath: Overdrive 2035",
+  "short_name": "NeoMath",
+  "description": "Futuristic 3D Endless Runner Math Game",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0d1117",
+  "theme_color": "#ff007f",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'><rect width='192' height='192' fill='%230d1117'/><circle cx='96' cy='96' r='60' fill='none' stroke='%23ff007f' stroke-width='10'/><path d='M70 70 L122 122 M122 70 L70 122' stroke='%2300ffff' stroke-width='12' stroke-linecap='round'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512'><rect width='512' height='512' fill='%230d1117'/><circle cx='256' cy='256' r='160' fill='none' stroke='%23ff007f' stroke-width='20'/><path d='M180 180 L332 332 M332 180 L180 332' stroke='%2300ffff' stroke-width='24' stroke-linecap='round'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
